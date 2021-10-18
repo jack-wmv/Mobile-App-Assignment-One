@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="greeting">Enter Values Below</string>
+    <string name="principal">Principal Amount:</string>
+    <string name="interest">Interest Rate:</string>
+    <string name="years">Years:</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Monthly Payment</string>
+    <string name="back">Return</string>
+</resources>
